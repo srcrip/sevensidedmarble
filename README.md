@@ -1,8 +1,8 @@
-## Hello there 👋
+<h1 align="center">
+Hello there 👋
+</h1>
 
-<div style="float: right;">
 [![sevensidedmarble's github stats](https://github-readme-stats.vercel.app/api?username=sevensidedmarble)](https://github.com/sevensidedmarble/github-readme-stats)
-</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
