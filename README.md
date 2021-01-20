@@ -2,7 +2,7 @@
 Hello there 👋
 </h1>
 
-[![sevensidedmarble's github stats](https://github-readme-stats.vercel.app/api?username=sevensidedmarble)](https://github.com/sevensidedmarble/github-readme-stats)
+[![sevensidedmarble's github stats](https://github-readme-stats.vercel.app/api?username=sevensidedmarble&show_icons=true&theme=darcula)](https://github.com/sevensidedmarble/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
