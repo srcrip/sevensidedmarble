@@ -7,4 +7,4 @@ Hello there 👋
 ### 📫 My blog:
 [https://sevensidedmarble.com](sevensidedmarble.com)
 
-### Ask me about Arch Linux
+## Ask me about Arch Linux
