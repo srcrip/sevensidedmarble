@@ -7,4 +7,8 @@ Hello there 👋
 ### 📫 My blog:
 [https://sevensidedmarble.com](sevensidedmarble.com)
 
+## Editor Philosophy
+
+I'm a crazy person that somehow ends up using Vim, Emacs, and VSCode in some capacity. But I use vim keybindings as much as I can.
+
 ## Ask me about Arch Linux
