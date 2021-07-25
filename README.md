@@ -2,8 +2,6 @@
 Hello there 👋
 </h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sevensidedmarble&show_icons=true&theme=darcula" />
-
 ## 📫 How to reach me:
 
 You can email me at [andrewianstewart@gmail.com](mailto:andrewianstewart@gmail.com?subject=[GitHub]).
